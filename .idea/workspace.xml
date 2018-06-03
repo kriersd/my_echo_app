@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5754577d-41ac-4fe9-8829-56647d2ecd2f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/chuck.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/chuck.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myechoappchart2/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/myechoappchart2/values.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -153,8 +152,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="153" />
-    <option name="y" value="44" />
+    <option name="x" value="302" />
+    <option name="y" value="178" />
     <option name="width" value="1400" />
     <option name="height" value="799" />
   </component>
@@ -239,7 +238,7 @@
           <option name="commandLineOptions" value="" />
           <option name="containerName" value="MyEchoApp" />
           <option name="entrypoint" value="" />
-          <option name="imageTag" value="davekrier/my_echo_app:latest" />
+          <option name="imageTag" value="davekrier/my_echo_app:v1.2" />
           <option name="portBindings">
             <list>
               <DockerPortBindingImpl>
@@ -291,7 +290,7 @@
       <workItem from="1527079683403" duration="303000" />
       <workItem from="1527088489990" duration="1456000" />
       <workItem from="1527121406370" duration="4720000" />
-      <workItem from="1527630967484" duration="4519000" />
+      <workItem from="1527630967484" duration="6167000" />
     </task>
     <task id="LOCAL-00001" summary="Initial committ.">
       <created>1526234142064</created>
@@ -318,11 +317,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13750000" />
+    <option name="totallyTimeSpent" value="15398000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="153" y="44" width="1400" height="799" extended-state="0" />
-    <editor active="true" />
+    <frame x="302" y="178" width="1400" height="799" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234137" visible="true" weight="0.24945612" />
       <window_info anchor="bottom" id="TODO" order="6" />

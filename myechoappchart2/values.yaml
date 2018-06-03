@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: davekrier/my_echo_app
-  tag: latest
+  tag: v1.2
   pullPolicy: IfNotPresent
 
 service:
